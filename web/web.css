@@ -1,0 +1,182 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #07081A;
+}
+
+#firstdiv {
+    justify-content: center;
+    display: flex;
+}
+
+#firstdiv1 {
+    gap: 12px;
+    width: 99px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+#firstdiv2 {
+    width: 274px;
+    display: flex;
+    color: white;
+    align-items: center;
+    gap: 16px;
+}
+
+#firstdivs {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1040px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+.bigdiv {
+    margin-top: 88px;
+    display: flex;
+    flex-direction: column;
+    gap: 88px;                  
+}
+
+
+#secdiv1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#secdiv2 {
+    text-align: center;
+    font-size: 22px;
+    max-width: 600px;
+    color: white;
+}
+
+#secdiv3 {
+    color: #C0C0C0;
+    margin-top: 32px;
+}
+
+#secdivbutton {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+
+}
+
+#button1 {
+    color: white;
+    padding: 12px 24px;
+    align-items: center;
+    border-radius: 8px;
+    background: #9100D3;
+}
+
+#therdiv {
+    display: flex;
+    justify-content: center;
+}
+
+.therdiv1 {
+    width: 167px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+#maindiv {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.logotxt {
+    color: white;
+    font-size: 24px;
+    display: flex;
+    text-align: center;
+    
+}
+
+
+
+#infomaindiv {
+    display: flex;
+    justify-content: center;
+}
+
+
+.information {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.informationborder {
+    max-width: 304px;
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #261C51;
+    display: flex;
+    justify-content: center;
+}
+
+.informationdiv {
+    color: white;
+    margin-top: 16px;
+    max-width: 256px;
+    padding: 16px 24px;
+}
+
+.language {
+    display: flex;
+    justify-content: center;
+}
+
+.languagetxt {
+    margin-top: 14px;
+}
+
+
+.infotxt3 {
+    font-size: 20px;
+}
+
+#footerdiv {
+    margin-top: 88px;
+    max-width: 100%;
+    border-top: 1px solid #261C51;
+    display: flex;
+    justify-content: center;
+    padding: 20px 200px;
+}
+
+#lasttxt1 {
+    font-size: 17px;
+    color: white;
+    max-width: 256px;
+    display: flex;
+    gap: 52px;
+}
+
+#logos {
+    max-width: 312px;
+}
+
+#lasttxt {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
