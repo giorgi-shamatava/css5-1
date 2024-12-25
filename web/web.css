@@ -171,6 +171,8 @@ body {
 
 #logos {
     max-width: 312px;
+    display: flex;
+    gap: 24px;
 }
 
 #lasttxt {
@@ -179,4 +181,5 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
 
